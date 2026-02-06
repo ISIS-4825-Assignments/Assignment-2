@@ -1,5 +1,2 @@
 # Ignore virtual env
 env/
-
-# Ignore reference notebook
-reference.ipynb
